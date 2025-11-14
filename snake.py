@@ -110,7 +110,7 @@ def game():
         clock.tick(fps)
     pygame.quit()
     quit()
-welcome()
+
 
 
 
