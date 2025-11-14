@@ -1,4 +1,4 @@
-import pygame
+import 
 import random
 #colors
 white=(255,255,255)
